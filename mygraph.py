@@ -18,4 +18,4 @@ plt.show()
 
 print("Hello there!")
 
-print("Hellow again!")
+print("Hello again!")
